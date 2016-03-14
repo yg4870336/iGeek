@@ -4,9 +4,11 @@ Team Information:
 
   1.Tandy(zhengyuanchun)
 
-  emal:luckystar1992@126.com
+  email:luckystar1992@126.com
 
-  2.
+  2.Raw(yanggang)
+  
+  email:4870336@qq.com
 
 version: 1.0
 
